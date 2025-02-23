@@ -1,0 +1,9 @@
+
+node_modules/
+package-lock.json
+.cache/
+
+# Ignorar arquivos de ambiente e credenciais
+.env
+.env.local
+.env.*.local
